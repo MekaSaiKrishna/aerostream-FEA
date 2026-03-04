@@ -1,5 +1,12 @@
 # Bird-to-Composite Plate Benchmark for Aerospace Portfolio
 
+## Companion documents
+This file is the full project playbook. The following companion documents break the work into recruiter-facing and execution-facing formats:
+
+- `COMPANY_TARGETING.md`: how to tailor the same project to Anduril, Joby, Archer, Boom, and SpaceX
+- `PORTFOLIO_BRIEF.md`: condensed recruiter- and hiring-manager-facing project summary
+- `ABAQUS_BUILD_CHECKLIST.md`: practical build order, modeling gates, and output checklist for execution in ABAQUS
+
 ## Why this project
 This is a strong side project because it sits at the intersection of:
 
