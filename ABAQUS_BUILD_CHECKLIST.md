@@ -1,5 +1,9 @@
 # ABAQUS Build Checklist: Bird-to-Composite Plate Benchmark
 
+
+## Resources
+- NASA Composite Damage VUMAT codes for Hashin criteria 3D
+
 ## Objective
 Use this as the execution checklist while building the project in ABAQUS. The order matters. Do not jump into full composite damage and defects before the projectile and contact behavior are stable.
 
