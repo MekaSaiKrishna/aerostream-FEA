@@ -4,9 +4,9 @@
 Use this as the execution checklist while building the project in ABAQUS. The order matters. Do not jump into full composite damage and defects before the projectile and contact behavior are stable.
 
 ## 1. Pre-model definition
-- Freeze the baseline plate size, laminate layup, thickness, support condition, projectile mass, and velocity range.
-- Choose one composite material system with a consistent public property set.
-- Decide whether the first version will be `CEL + composite plate` or `SPH + composite plate`.
+- Freeze the baseline plate size, laminate layup, thickness, support condition, projectile mass, and velocity range. (**Currently dummy placeholder values are chosen**)
+- Choose one composite material system with a consistent public property set. (**At present using IM7/8552 homogenized properties for [45/0/-45/90]4s**)
+- Decide whether the first version will be `CEL + composite plate` or `SPH + composite plate`. (**Chose to use SPH + Composite Plate**)
 - Define the exact metrics you will extract: peak force, impulse, damage area, max displacement, penetration, residual stiffness.
 
 ## 2. Input data checklist
